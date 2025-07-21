@@ -1,3 +1,3 @@
 # Python
-### Dev Jorge Zárate  - Lic. Ciencias Informaticas
+# Dev Jorge Zárate  - Lic. Ciencias Informaticas
 
