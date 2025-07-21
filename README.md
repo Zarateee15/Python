@@ -1,3 +1,4 @@
-# Python
-# Dev Jorge Zárate  - Lic. Ciencias Informaticas
+# Python 
+## Dev Jorge Zárate  
+### Lic. Ciencias Informaticas - FPUNA
 
